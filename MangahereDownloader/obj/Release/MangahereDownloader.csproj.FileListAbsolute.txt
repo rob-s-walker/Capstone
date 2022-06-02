@@ -1,0 +1,6 @@
+C:\Users\Banan\workspace\Capstone\Jumper\MangahereDownloader\bin\Release\MangahereDownloader.dll.config
+C:\Users\Banan\workspace\Capstone\Jumper\MangahereDownloader\bin\Release\MangahereDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\MangahereDownloader\bin\Release\MangahereDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\MangahereDownloader\obj\Release\MangahereDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Banan\workspace\Capstone\Jumper\MangahereDownloader\obj\Release\MangahereDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\MangahereDownloader\obj\Release\MangahereDownloader.pdb

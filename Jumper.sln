@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumper", "Jumper\Jumper.csproj", "{1061ABB3-12E2-4F84-ABAA-DF64100B4B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KissmangaPlugin", "KissmangaDownloader\KissmangaPlugin.csproj", "{7E578C7B-AE4A-47EC-898C-545C5585642C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B322D15E-055A-4B33-A386-6DA1DCFC3B07}"
+	ProjectSection(SolutionItems) = preProject
+		Jumper\chromedriver\chromedriver.exe = Jumper\chromedriver\chromedriver.exe
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangahereDownloader", "MangahereDownloader\MangahereDownloader.csproj", "{D7829A9F-52E8-4FC9-9942-A3C28A9DE68C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangadexDownloader", "MangadexDownloader\MangadexDownloader.csproj", "{E3E24ABE-1346-491C-9EC2-7944A5559471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynastyScansDownloader", "DynastyScansDownloader\DynastyScansDownloader.csproj", "{02BB0EBC-A05B-4650-AAEC-5292C6415BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangaRockDownloader", "MangaRockDownloader\MangaRockDownloader.csproj", "{63A3BE56-BCA7-441C-AF1A-25B7D003DAC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1061ABB3-12E2-4F84-ABAA-DF64100B4B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1061ABB3-12E2-4F84-ABAA-DF64100B4B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1061ABB3-12E2-4F84-ABAA-DF64100B4B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1061ABB3-12E2-4F84-ABAA-DF64100B4B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E578C7B-AE4A-47EC-898C-545C5585642C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E578C7B-AE4A-47EC-898C-545C5585642C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E578C7B-AE4A-47EC-898C-545C5585642C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E578C7B-AE4A-47EC-898C-545C5585642C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7829A9F-52E8-4FC9-9942-A3C28A9DE68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7829A9F-52E8-4FC9-9942-A3C28A9DE68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7829A9F-52E8-4FC9-9942-A3C28A9DE68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7829A9F-52E8-4FC9-9942-A3C28A9DE68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E24ABE-1346-491C-9EC2-7944A5559471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E24ABE-1346-491C-9EC2-7944A5559471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E24ABE-1346-491C-9EC2-7944A5559471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E24ABE-1346-491C-9EC2-7944A5559471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02BB0EBC-A05B-4650-AAEC-5292C6415BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BB0EBC-A05B-4650-AAEC-5292C6415BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BB0EBC-A05B-4650-AAEC-5292C6415BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BB0EBC-A05B-4650-AAEC-5292C6415BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A3BE56-BCA7-441C-AF1A-25B7D003DAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A3BE56-BCA7-441C-AF1A-25B7D003DAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A3BE56-BCA7-441C-AF1A-25B7D003DAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A3BE56-BCA7-441C-AF1A-25B7D003DAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FE0D69E-7957-4C10-B9EA-36DEB1F522E1}
+	EndGlobalSection
+EndGlobal

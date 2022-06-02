@@ -1,0 +1,15 @@
+Add:
+/Video/Add
+/Music/Add
+Update
+/Video/Update
+/Music/Update
+Delete
+/Video/Delete
+/Music/Delete
+Read
+/All
+/Music/All
+/Video/All
+/Video
+/Music 

@@ -1,0 +1,6 @@
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\plugins\DynastyScansDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\plugins\DynastyScansDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\DynastyScansDownloader\obj\Debug\DynastyScansDownloader.csprojAssemblyReference.cache
+C:\Users\Banan\workspace\Capstone\Jumper\DynastyScansDownloader\obj\Debug\DynastyScansDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Banan\workspace\Capstone\Jumper\DynastyScansDownloader\obj\Debug\DynastyScansDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\DynastyScansDownloader\obj\Debug\DynastyScansDownloader.pdb

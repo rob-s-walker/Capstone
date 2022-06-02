@@ -1,0 +1,133 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "a74149e4f1b34f306480e221d13aefd30ccfda40"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Titanium.Web.Proxy/1.0.0": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "4.4.0",
+          "NETStandard.Library": "2.0.3",
+          "Portable.BouncyCastle": "1.8.2",
+          "StreamExtended": "1.0.179",
+          "System.Security.Principal.Windows": "4.4.1"
+        },
+        "runtime": {
+          "Titanium.Web.Proxy.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.Win32.Registry/4.4.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.4.0",
+          "System.Security.Principal.Windows": "4.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Portable.BouncyCastle/1.8.2": {
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.8.2.0",
+            "fileVersion": "1.8.2.223"
+          }
+        }
+      },
+      "StreamExtended/1.0.179": {
+        "runtime": {
+          "lib/netstandard1.3/StreamExtended.dll": {
+            "assemblyVersion": "1.0.179.0",
+            "fileVersion": "1.0.179.0"
+          }
+        }
+      },
+      "System.Security.AccessControl/4.4.0": {
+        "dependencies": {
+          "System.Security.Principal.Windows": "4.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.AccessControl.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/4.4.1": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.6.25921.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Titanium.Web.Proxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d15KS6WIdb5TzAEQiNM7KxB5TYb7cgiRk/767t83xYicHpHoqekPHXLWOc6gyh/FDF77dj4oR1/qg2tnPRfM1g==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dA36TlNVn/XfrZtmf0fiI/z1nd3Wfp2QVzTdj26pqgP9LFWq0i1hYEUAW50xUjGFYn1+/cP3KGuxT2Yn1OUNBQ==",
+      "path": "microsoft.win32.registry/4.4.0",
+      "hashPath": "microsoft.win32.registry.4.4.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Portable.BouncyCastle/1.8.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XpJVIhjPiO0o+DU36eeIzqnRilDmE8Z7Kfhm9V9o1yNqM3ikgleD94Z5W/LeEu3t63LaZl2CNJexaix+I6AUMg==",
+      "path": "portable.bouncycastle/1.8.2",
+      "hashPath": "portable.bouncycastle.1.8.2.nupkg.sha512"
+    },
+    "StreamExtended/1.0.179": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FX0lxssCcWMexXoh7dIr0tiY3zS5I6lrx8mL7pa45R+1ayVjyjn8km7hTkdITni6ccir7KLTaut1wj5Mi2EhoA==",
+      "path": "streamextended/1.0.179",
+      "hashPath": "streamextended.1.0.179.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2NRFPX/V81ucKQmqNgGBZrKGH/5ejsvivSGMRum0SMgPnJxwhuNkzVS1+7gC3R2X0f57CtwrPrXPPSe6nOp82g==",
+      "path": "system.security.accesscontrol/4.4.0",
+      "hashPath": "system.security.accesscontrol.4.4.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h3ah5DRH1dD0WbtLVZrLAUkkMYL9N3gQ/qrJuc65GzyR4hsaPD0YjEwmpu5+2tNT8BQktW5xw7KlgoY83jqd7w==",
+      "path": "system.security.principal.windows/4.4.1",
+      "hashPath": "system.security.principal.windows.4.4.1.nupkg.sha512"
+    }
+  }
+}

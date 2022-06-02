@@ -1,0 +1,8 @@
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\plugins\KissmangaDownloader.dll.config
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\plugins\KissmangaDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\plugins\KissmangaDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\obj\Debug\KissmangaPlugin.csprojAssemblyReference.cache
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\obj\Debug\KissmangaPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\obj\Debug\KissmangaPlugin.csproj.CopyComplete
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\obj\Debug\KissmangaDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\obj\Debug\KissmangaDownloader.pdb

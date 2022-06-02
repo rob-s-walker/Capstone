@@ -1,0 +1,21 @@
+﻿<Window x:Class="Jumper.OptionsDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Jumper"
+        mc:Ignorable="d"
+        Title="Options" Height="148.5" Width="410.5">
+    <Grid Margin="0,0,0.5,0">
+        <Label Content="Download Path:" HorizontalAlignment="Left" Margin="10,18,0,0" VerticalAlignment="Top" Height="16" Padding="0"/>
+        <TextBox Name="PathText" HorizontalAlignment="Left" Height="20" Margin="108,18,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="187" RenderTransformOrigin="0.5,0.5"/>
+        <Button Name="PathButton" Content="Browse..." HorizontalAlignment="Left" Margin="311,18,0,0" VerticalAlignment="Top" Width="84" Height="20" Click="PathButton_Click"/>
+        <Label Content="Create Manga Subfolder:" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" Width="135" Padding="0"/>
+        <CheckBox Name="SubfolderCheck" Content="" HorizontalAlignment="Left" Margin="150,51,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.425,0.433" Height="14" Padding="0,13" Checked="SubfolderCheck_Checked" />
+        <ComboBox Name="AFCombo" HorizontalAlignment="Left" Margin="311,46,0,0" VerticalAlignment="Top" Width="84" SelectionChanged="ComboBox_SelectionChanged" Height="23"/>
+        <Label Content="Archive Format:" HorizontalAlignment="Left" Margin="212,49,0,0" VerticalAlignment="Top" Padding="0"/>
+        <Button Content="About" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" Width="83" Height="23" Click="Button_Click"/>
+        <Button Content="OK" HorizontalAlignment="Left" Margin="311,80,0,0" VerticalAlignment="Top" Width="84" Height="23" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

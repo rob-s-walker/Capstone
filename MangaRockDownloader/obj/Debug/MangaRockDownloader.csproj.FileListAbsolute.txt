@@ -1,0 +1,7 @@
+C:\Users\Banan\workspace\Capstone\Jumper\MangaRockDownloader\bin\Debug\MangaRockDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\MangaRockDownloader\bin\Debug\MangaRockDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\plugins\MangaRockDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\plugins\MangaRockDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\MangaRockDownloader\obj\Debug\MangaRockDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Banan\workspace\Capstone\Jumper\MangaRockDownloader\obj\Debug\MangaRockDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\MangaRockDownloader\obj\Debug\MangaRockDownloader.pdb

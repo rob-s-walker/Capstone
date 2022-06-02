@@ -1,0 +1,12 @@
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\bin\Release\KissmangaDownloader.dll.config
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\bin\Release\KissmangaDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\bin\Release\KissmangaDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\bin\Release\WebDriver.dll
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\bin\Release\WebDriver.Support.dll
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\bin\Release\WebDriver.xml
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\bin\Release\WebDriver.Support.xml
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\obj\Release\KissmangaPlugin.csprojAssemblyReference.cache
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\obj\Release\KissmangaPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\obj\Release\KissmangaPlugin.csproj.CopyComplete
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\obj\Release\KissmangaDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\KissmangaDownloader\obj\Release\KissmangaDownloader.pdb

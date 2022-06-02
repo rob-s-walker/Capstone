@@ -1,0 +1,17 @@
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\plugins\MangagoDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\plugins\MangagoDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\MangagoDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\MangagoDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\MangagoDownloader\bin\Debug\MangagoDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\MangagoDownloader\bin\Debug\MangagoDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\MangagoDownloader\bin\Debug\WebDriver.dll
+C:\Users\Banan\workspace\Capstone\Jumper\MangagoDownloader\bin\Debug\WebDriver.xml
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\plugins\MangagoDownloader.dll.config
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\plugins\MangagoDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\Jumper\bin\Debug\plugins\MangagoDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\MangagoDownloader\obj\Debug\MangagoDownloader.csprojAssemblyReference.cache
+C:\Users\Banan\workspace\Capstone\Jumper\MangagoDownloader\obj\Debug\MangagoDownloader.g.resources
+C:\Users\Banan\workspace\Capstone\Jumper\MangagoDownloader\obj\Debug\MangagoDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Banan\workspace\Capstone\Jumper\MangagoDownloader\obj\Debug\MangagoDownloader.csproj.CopyComplete
+C:\Users\Banan\workspace\Capstone\Jumper\MangagoDownloader\obj\Debug\MangagoDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\MangagoDownloader\obj\Debug\MangagoDownloader.pdb

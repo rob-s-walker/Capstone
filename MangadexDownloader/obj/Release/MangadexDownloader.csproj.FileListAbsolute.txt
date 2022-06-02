@@ -1,0 +1,6 @@
+C:\Users\Banan\workspace\Capstone\Jumper\MangadexDownloader\bin\Release\MangadexDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\MangadexDownloader\bin\Release\MangadexDownloader.pdb
+C:\Users\Banan\workspace\Capstone\Jumper\MangadexDownloader\obj\Release\MangadexDownloader.csprojAssemblyReference.cache
+C:\Users\Banan\workspace\Capstone\Jumper\MangadexDownloader\obj\Release\MangadexDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Banan\workspace\Capstone\Jumper\MangadexDownloader\obj\Release\MangadexDownloader.dll
+C:\Users\Banan\workspace\Capstone\Jumper\MangadexDownloader\obj\Release\MangadexDownloader.pdb
